@@ -9,11 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="generics" />
         <module name="collections-review" />
+        <module name="lambda" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Jpractive" target="11" />
-      <module name="lambda" target="11" />
+      <module name="Jpractice" target="11" />
       <module name="streams" target="11" />
     </bytecodeTargetLevel>
   </component>
