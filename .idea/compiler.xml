@@ -11,6 +11,7 @@
         <module name="lambda" />
         <module name="BigONotation" />
         <module name="generics" />
+        <module name="Arrays" />
         <module name="streams" />
       </profile>
     </annotationProcessing>
