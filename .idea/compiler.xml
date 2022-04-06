@@ -11,8 +11,9 @@
         <module name="lambda" />
         <module name="BigONotation" />
         <module name="generics" />
-        <module name="Arrays" />
         <module name="streams" />
+        <module name="LinkedLists" />
+        <module name="Arrays" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
