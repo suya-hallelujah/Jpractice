@@ -10,9 +10,11 @@
         <module name="collections-review" />
         <module name="lambda" />
         <module name="BigONotation" />
+        <module name="Tasks" />
         <module name="generics" />
         <module name="streams" />
         <module name="LinkedLists" />
+        <module name="Stacks" />
         <module name="Arrays" />
       </profile>
     </annotationProcessing>
