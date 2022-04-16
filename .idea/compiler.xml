@@ -16,6 +16,7 @@
         <module name="LinkedLists" />
         <module name="Stacks" />
         <module name="Arrays" />
+        <module name="Recursion" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
